@@ -18,9 +18,9 @@ This repo will contain several demos including:
 ## Roadmap
 
 - [x] guessing-game.html
-- [ ] guessing-game.js
-- [ ] a button that triggers the game to start
-- [ ] design visual indications of winning or losing
+- [x] guessing-game.js
+- [x] a button that triggers the game to start
+- [x] design visual indications of winning or losing
 
 ## Contact
 
@@ -31,3 +31,4 @@ Author:
 - https://javascript.info/variables
 - https://javascript.info/types
 - https://javascript.info/debugging-chrome
+- https://replit.com/@khsde4789/JavaScript-Practice-Week-1-Day-3#index.js

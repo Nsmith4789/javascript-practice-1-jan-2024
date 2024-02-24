@@ -7,7 +7,7 @@ console.log("it works!");
 
 // It's OK if you're not sure, that's why it's a guess!
 startButton.onclick = function () {
-    alert('Ready, player 1?');
+    alert('Player, are you Ready 1?');
 
     confirm("Let's play a guessing game.");
 
@@ -15,10 +15,12 @@ startButton.onclick = function () {
 
     let guess = parseInt(g);
 
-    if (guess === 7) {
+    if (guess === 9) {
         alert("You got it!");
+        startButton.style.backgroundColor = "Green"
     } else {
         alert("No!");
+        backgroundColor = "blue"
     }
 
     alert("Thanks for playing!");
